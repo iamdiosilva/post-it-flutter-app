@@ -1,6 +1,6 @@
 # sqlflite_crud_notes
 
-A new Flutter project.
+Post-it app with SQLite and Flutter
 
 <img src="https://user-images.githubusercontent.com/65866387/182872457-af5ff742-24f2-4cd8-b8be-e9f1870fc41e.gif">
 
